@@ -3,7 +3,9 @@ background-color: darksalmon;
 color: black;
 display: flex;
 justify-content: center;
-
+button{
+  color: goldenrod;  
+}
 
 
 
